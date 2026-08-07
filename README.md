@@ -1,3 +1,4 @@
+![AI Declaration](https://img.shields.io/badge/AI%20Declaration-DeepSeek%20%26%20Codex-blue)
 # Unfix MC-306798
 
 一个 **Fabric 模组**,用于 Minecraft **Java 版 26.2**,撤销 [MC-306798](https://bugs.mojang.com/browse/MC-306798) 的修复内容。
