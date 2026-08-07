@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "unfix-mc-306798",
+	"version": "${version}",
+	"name": "Unfix MC-306798",
+	"description": "This mod re-enables this bug ([**MC-306798**](https://bugs.mojang.com/browse/MC/issues/MC-306798)) that has already been fixed.",
+	"authors": [
+		"jiajihuajihuafen"
+	],
+	"contact": {
+		"homepage": "https://bugs.mojang.com/browse/MC-306798",
+		"sources": "https://github.com/jiajihuajihuafen/Unfix-MC-306798"
+	},
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"io.github.mc306798revert.Mc306798Revert"
+		]
+	},
+	"mixins": [
+		"unfix-mc-306798.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25"
+	}
+}
