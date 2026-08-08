@@ -1,5 +1,5 @@
 ![AI Declaration](https://img.shields.io/badge/AI%20Declaration-DeepSeek%20%26%20Codex-blue)
-[![English](https://img.shields.io/badge/English-README-blue)](README.md)
+[![English](https://img.shields.io/badge/English-switch-blue)](README.md)
 [![中文](https://img.shields.io/badge/中文-切换-red)](README.zh.md)
 # Unfix MC-306798
 
